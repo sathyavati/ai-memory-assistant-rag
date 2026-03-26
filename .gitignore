@@ -1,0 +1,7 @@
+memory_db/
+speech_output.mp3
+data/photos/
+__pycache__/
+.env
+*.pyc
+.ipynb_checkpoints/

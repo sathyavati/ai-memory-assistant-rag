@@ -2,14 +2,14 @@
 
 ### A Personalised Voice-Activated AI Assistant for Dementia Care Using Retrieval Augmented Generation
 
-> Built using RAG, LLaMA 3.3 70B, ChromaDB, Sentence Transformers, and Gradio
+> Built using RAG, LLaMA 3.3 70B, ChromaDB, Sentence Transformers and Gradio
 
 ---
 
 ## Problem
 
 Dementia and Alzheimer's patients progressively lose the ability to recall
-names, faces, and life events. Caregivers cannot be available 24 hours a day
+names, faces and life events. Caregivers cannot be available 24 hours a day
 to answer the same questions repeatedly. This assistant provides an AI that
 remembers the patient's life for them and responds warmly on demand.
 
@@ -17,22 +17,22 @@ remembers the patient's life for them and responds warmly on demand.
 
 ## How It Works
 ```
-Family uploads memories → Stored as vector embeddings in ChromaDB
-Patient asks question   → Semantic search retrieves relevant memories
-LLaMA 3.3 70B          → Generates warm personalised response
-Output                  → Text + Voice + Photo shown simultaneously
+Family uploads memories -> Stored as vector embeddings in ChromaDB
+Patient asks question   -> Semantic search retrieves relevant memories
+LLaMA 3.3 70B           -> Generates warm personalised response
+Output                  -> Text + Voice + Photo shown simultaneously
 ```
 
 ---
 
 ## Features
 
+- Related photo displayed alongside answer
+- Family members can add new memories in real time
 - Voice input using Groq Whisper API
 - Text input through Gradio interface
 - Warm personalised responses using LLaMA 3.3 70B
-- Related photo displayed alongside answer
 - Voice output using Google Text to Speech
-- Family members can add new memories in real time
 - No model training required — uses RAG
 
 ---
@@ -72,22 +72,20 @@ GROQ_API_KEY=your_key_here
 ## Project Structure
 ```
 ai-memory-assistant-rag/
-  Al Dementia project.ipynb   ← main notebook
-  requirements.txt            ← libraries
-  .gitignore                  ← ignored files
+  Al Dementia project.ipynb   
+  requirements.txt            
+  .gitignore                  
   results/
-    results.md                ← evaluation results
+    results.md                
 ```
 
 ---
 
-## Authors
 
-Sathyavathi Reju Gopal — ms_2025021@iiitm.ac.in
-Devika Dinesh — ms_2025011@iiitm.ac.in
-MS AI and Data Science, ABV-IIITM Gwalior
 
----
+
+
+
 
 ## References
 
@@ -98,16 +96,7 @@ MS AI and Data Science, ABV-IIITM Gwalior
 
 ---
 
-### File 2 — requirements.txt
-```
-groq
-chromadb
-gradio
-pillow
-sentence-transformers
-gTTS
-pygame
-python-dotenv
+
 
 
 

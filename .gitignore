@@ -1,7 +1,9 @@
 memory_db/
-speech_output.mp3
 data/photos/
-__pycache__/
 .env
+.gradio/
+__pycache__/
 *.pyc
 .ipynb_checkpoints/
+speech_output.mp3
+desktop.ini

@@ -92,7 +92,7 @@ ai-memory-assistant-rag/
 - Lewis et al. RAG for Knowledge-Intensive NLP Tasks. NeurIPS 2020
 - Reimers and Gurevych. Sentence-BERT. EMNLP 2019
 - WHO. Dementia Fact Sheet. 2023
-```
+
 
 
 

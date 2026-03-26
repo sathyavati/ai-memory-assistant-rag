@@ -1,0 +1,9 @@
+```
+groq
+chromadb
+gradio
+pillow
+sentence-transformers
+gTTS
+pygame
+python-dotenv

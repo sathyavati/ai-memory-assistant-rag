@@ -63,16 +63,21 @@ required.
 ## 4. Sample Responses
 
 **Question:** Who is Ashwathy?
+
 **Answer:** Ashwathy is your beloved daughter who lives in Kochi.
 You must be so proud of her, she got married in a beautiful
 ceremony in 2015.
 
+
 **Question:** Tell me about the girl in Kochi
+
 **Answer:** That sounds like Ashwathy, your dear daughter!
 She lives in Kochi and got married in 2015. She must
 mean the world to you.
 
+
 **Question:** What was my job?
+
 **Answer:** You had a wonderful career as a school teacher
 for 30 years. Your favourite subject to teach was Hindi.
 What a meaningful profession!

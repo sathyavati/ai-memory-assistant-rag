@@ -69,24 +69,6 @@ GROQ_API_KEY=your_key_here
 
 ---
 
-## Project Structure
-```
-ai-memory-assistant-rag/
-  Al Dementia project.ipynb   
-  requirements.txt            
-  .gitignore                  
-  results/
-    results.md                
-```
-
----
-
-
-
-
-
-
-
 ## References
 
 - Lewis et al. RAG for Knowledge-Intensive NLP Tasks. NeurIPS 2020

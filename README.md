@@ -71,11 +71,10 @@ GROQ_API_KEY=your_key_here
 
 ## References
 
--Chen, G., Bhattacharya, S., and Spaulding, R. (2025). The Role of AI-Driven Personal Assistants in Geriatric Care: Opportunities, Challenges, and Future Directions. Annals of Gerontology and Geriatric Research, 1(1), 1003
--Li, J., Maharjan, B., Xie, B., and Tao, C. (2020). A Personalised Voice-Based Diet Assistant for Caregivers of Alzheimer Disease and Related Dementias: System Development and Validation. Journal of Medical Internet Research, 22(9), e19897
-- Lewis et al. RAG for Knowledge-Intensive NLP Tasks. NeurIPS 2020
-- Reimers and Gurevych. Sentence-BERT. EMNLP 2019
-- WHO. Dementia Fact Sheet. 2023
+-Chen et al. (2025). The Role of AI-Driven Personal Assistants in Geriatric Care. Annals of Gerontology and Geriatric Research.  
+-Li et al. (2020). A Personalised Voice-Based Diet Assistant for Caregivers of Alzheimer Disease. Journal of Medical Internet Research, 22(9).
+- Lewis et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. NeurIPS 2020.
+  
 
 
 

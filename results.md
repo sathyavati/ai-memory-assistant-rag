@@ -81,21 +81,21 @@ What a meaningful profession!
 
 ## 5. Key Findings
 
-**Finding 1 — RAG without training**
+**Finding 1 - RAG without training**
 Personalisation is achieved by storing memories in ChromaDB.
 No model weights are modified. The same LLM serves all patients
 with different memories.
 
-**Finding 2 — Semantic beats keyword**
+**Finding 2 - Semantic beats keyword**
 Indirect queries like "the girl in Kochi" correctly resolve
 to Ashwathy without any name match. This is critical for
 dementia patients who use vague phrasing.
 
-**Finding 3 — Zero hallucination**
+**Finding 3 - Zero hallucination**
 System prompt engineering ensures responses use only retrieved
 memories. The model never makes up facts about the patient.
 
-**Finding 4 — Real time updates**
+**Finding 4 - Real time updates**
 New memories added through the Add Memory tab are available
 for retrieval immediately without restarting the system.
 

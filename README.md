@@ -72,7 +72,9 @@ GROQ_API_KEY=your_key_here
 ## References
 
 -Chen et al. (2025). The Role of AI-Driven Personal Assistants in Geriatric Care. Annals of Gerontology and Geriatric Research.  
+
 -Li et al. (2020). A Personalised Voice-Based Diet Assistant for Caregivers of Alzheimer Disease. Journal of Medical Internet Research, 22(9).
+
 -Lewis et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. NeurIPS 2020.
   
 

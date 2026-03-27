@@ -4,7 +4,7 @@
 
 All data used in this project including memory statements and photographs
 are artificially created for demonstration purposes only. No real patient
-data, real personal photographs, or real medical information has been used
+data, real personal photographs or real medical information has been used
 anywhere in this project. This was a deliberate decision to protect privacy
 during academic demonstration.
 
@@ -22,14 +22,14 @@ information a real family would provide for their patient.
 
 | # | Category | Memory |
 |---|---|---|
-| 1 | Family | Ashwathy is your daughter. She lives in Kochi. She got married in 2015. |
+| 1 | Child | Ashwathy is your daughter. She lives in Kochi. She got married in 2015. |
 | 2 | Spouse | Your husband Mohan loved cricket and watched every India match. He loved gardening. |
-| 3 | Occupation | You worked as a school teacher for 30 years. Your favourite subject was Hindi. |
-| 4 | Grandchildren | Your grandson Arjun is 8 years old. He calls you Nani and loves football. |
-| 5 | Birthplace | You were born in Bhopal and grew up near the old market. You loved eating poha. |
+| 3 | Occupation | You worked as a school teacher for 30 years. Your favourite subject was Math. |
+| 4 | Grandchildren | Your grandson Arjun is 8 years old. He loves football. |
+| 5 | Birthplace | You were born in Kozhikode and grew up near the old market. You loved eating biriyani. |
 | 6 | Friendship | Your best friend is Sunita. You have known her since college. She visits every Diwali. |
-| 7 | Pets | You have a dog named Tommy. He is a golden retriever and loves to play fetch. |
-| 8 | Preferences | Your favourite movie is Mughal-E-Azam. You used to watch it every year with Mohan. |
+| 7 | Pets | You have a dog named Titu. He is a golden retriever and loves to play fetch. |
+| 8 | Preferences | Your favourite movie is Nadodikkatu and you used to watch it. |
 
 ### Properties
 
@@ -53,17 +53,17 @@ information a real family would provide for their patient.
 All photographs used in this project were artificially generated using
 Google Gemini's image generation feature. No real personal photographs
 of any real person were used. Each image was generated using a descriptive
-text prompt written by the project team.
+text prompt.
 
 ### Generated Photos
 
 | Filename | Prompt Used | Represents |
 |---|---|---|
-| ashwathy.jpg | A young South Indian woman smiling in a professional setting | Patient's daughter |
-| mohan.jpg | An elderly South Indian man watching cricket on television | Patient's husband |
-| arjun.jpg | A young boy playing football in a garden | Patient's grandson |
-| wedding.jpg | A traditional South Indian wedding ceremony with flowers and decorations | Daughter's wedding |
-| working.jpg | An elderly woman teaching students in a classroom | Patient's teaching career |
+| ashwathy.jpg | A young Malayali woman smiling in Kochi | Patient's daughter |
+| mohan.jpg | An elderly Malayali man outside his house in Kerala | Patient's husband |
+| arjun.jpg | A young boy riding cycle outside his home in Kochi | Patient's grandson |
+| wedding.jpg | A traditional Keralite wedding ceremony | Daughter's wedding |
+| working.jpg | An elderly female school teacher | Patient's teaching career |
 
 ### Properties
 
@@ -80,8 +80,8 @@ text prompt written by the project team.
 
 Real personal photographs were intentionally avoided for two reasons:
 
-1. Privacy — using real faces of real people without consent is unethical
-2. Academic demonstration — AI generated images are sufficient to demonstrate
+1. Privacy - using real faces of real people without consent is unethical
+2. Academic demonstration - AI generated images are sufficient to demonstrate
    the photo retrieval feature without any privacy risk
 
 In a real clinical deployment, actual family photographs would be uploaded
@@ -93,7 +93,7 @@ by caregivers through the Add Memory interface.
 
 ### Overview
 No pre-recorded voice dataset was used. All voice input in this project
-is live — the patient speaks directly into the microphone during real time
+is live i.e the patient speaks directly into the microphone during real time
 use. The Groq Whisper API transcribes the spoken question into text
 on the fly.
 
@@ -114,7 +114,7 @@ assistant by definition requires personalised data specific to one individual.
 
 The innovation in this project is not the dataset itself but the RAG
 architecture that allows any family to create and personalise their own
-dataset for their patient through a simple text interface, with no technical
+dataset for their patient through a simple text interface with no technical
 knowledge required.
 
 ---

@@ -27,7 +27,7 @@ information a real family would provide for their patient.
 | 3 | Occupation | You worked as a school teacher for 30 years. Your favourite subject was Math. |
 | 4 | Grandchildren | Your grandson Arjun is 8 years old. He loves football. |
 | 5 | Birthplace | You were born in Kozhikode and grew up near the old market. You loved eating biriyani. |
-| 6 | Friendship | Your best friend is Sunita. You have known her since college. She visits every Diwali. |
+| 6 | Friendship | Your best friend is Sunita. You have known her since college. She visits every Onam. |
 | 7 | Pets | You have a dog named Titu. He is a golden retriever and loves to play fetch. |
 | 8 | Preferences | Your favourite movie is Nadodikkatu and you used to watch it. |
 

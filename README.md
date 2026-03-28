@@ -33,7 +33,7 @@ Output                  -> Text + Voice + Photo shown simultaneously
 - Text input through Gradio interface
 - Warm personalised responses using LLaMA 3.3 70B
 - Voice output using Google Text to Speech
-- No model training required — uses RAG
+- No model training required - uses RAG
 
 ---
 

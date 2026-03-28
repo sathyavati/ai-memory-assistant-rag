@@ -16,13 +16,18 @@ remembers the patient's life for them and responds warmly on demand.
 ---
 
 ## How It Works
+
+
+https://github.com/user-attachments/assets/78490266-c734-44a4-bf13-127d9fb25689
+
+
+
 ```
 Family uploads memories -> Stored as vector embeddings in ChromaDB
 Patient asks question   -> Semantic search retrieves relevant memories
 LLaMA 3.3 70B           -> Generates warm personalised response
 Output                  -> Text + Voice + Photo shown simultaneously
 ```
-
 ---
 
 ## Features

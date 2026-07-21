@@ -46,17 +46,16 @@ Output                  -> Text + Voice + Photo shown simultaneously
 
 | Component | Technology |
 |---|---|
-| LLM | LLaMA 3.3 70B via Groq API |
-| Embeddings | Sentence Transformers all-MiniLM-L6-v2 |
-| Vector Database | ChromaDB (local) |
-| Voice Input | Groq Whisper API |
-| Voice Output | gTTS + pygame |
-| Images | Google Gemini (pre-generated) |
-| Interface | Gradio |
-| Backend | Python + Jupyter Notebook |
+| LLM | ![LLaMA 3.3 70B](https://img.shields.io/badge/LLaMA%203.3%2070B-6E40C9?style=flat&logo=meta&logoColor=white) via ![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=flat&logo=groq&logoColor=white) |
+| Embeddings | ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white) |
+| Vector Database | ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A45FF?style=flat&logo=databricks&logoColor=white) (local) |
+| Voice Input | ![Groq Whisper API](https://img.shields.io/badge/Groq%20Whisper%20API-F55036?style=flat&logo=groq&logoColor=white) |
+| Voice Output | ![gTTS](https://img.shields.io/badge/gTTS-4285F4?style=flat&logo=google&logoColor=white) + ![Pygame](https://img.shields.io/badge/Pygame-00AA00?style=flat&logo=pygame&logoColor=white) |
+| Images | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75FF?style=flat&logo=google-gemini&logoColor=white) (pre-generated) |
+| Interface | ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat&logo=gradio&logoColor=white) |
+| Backend | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) + ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |
 
 ---
-
 ## Setup
 
 1. Clone this repository

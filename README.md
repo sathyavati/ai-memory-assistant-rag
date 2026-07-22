@@ -46,7 +46,7 @@ Output                  -> Text + Voice + Photo shown simultaneously
 
 | Component | Technology |
 |---|---|
-| RAG Pipeline | Built from scratch (no LangChain/LlamaIndex) |
+| RAG Pipeline | Built from scratch |
 | LLM | ![LLaMA 3.3 70B](https://img.shields.io/badge/LLaMA%203.3%2070B-6E40C9?style=flat&logo=meta&logoColor=white) via ![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=flat&logo=groq&logoColor=white) |
 | Embeddings | ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white) |
 | Vector Database | ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A45FF?style=flat&logo=databricks&logoColor=white) (local) |
